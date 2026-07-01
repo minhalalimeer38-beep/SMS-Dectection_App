@@ -1,5 +1,5 @@
 import streamlit as st
-from gradio_client import Client  # Official Gradio Client import kiya
+from gradio_client import Client 
 
 st.set_page_config(page_title="SMS Spam Detector", page_icon="✉️")
 st.title("✉️ SMS Spam Classifier ")
