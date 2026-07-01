@@ -1,0 +1,8 @@
+pandas
+numpy
+gradio
+gradio_client
+nltk
+scikit-learn
+streamlit
+requests
