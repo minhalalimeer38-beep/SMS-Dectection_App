@@ -1,3 +1,4 @@
-gradio>=4.0.0
+streamlit
+gradio_client
 nltk>=3.9.1
 scikit-learn==1.6.1
